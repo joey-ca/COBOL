@@ -1,0 +1,10 @@
+Mercedes-Benz    V6 Engine                    500000            John Doe
+BMW              Inline-4 Turbocharged Engine 300000            Jane Smith
+Toyota           V8 Engine                    200000            Michael Johnson
+Chevrolet        V6 Engine                    150000            Sarah Davis
+Ford             V8 Engine                    400000            Robert Wilson
+Honda            Inline-4 Engine              100000            Emily Brown
+Nissan           V6 Engine                    250000            David Taylor
+Audi             V8 Turbocharged Engine       350000            Olivia Anderson
+Mazda            Inline-4 Engine              180000            Daniel Martinez
+Volkswagen       V6 Engine                    220000            Sophia Thompson
